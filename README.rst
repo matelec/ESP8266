@@ -1,9 +1,11 @@
-Template for the Read the Docs tutorial
+Git sur les projets ESP8266
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Le Git concerne les projets IoT autour de l'ESP8266.
 
-Read the tutorial here:
+L'esp8266 sera programmé en C++ ou micropython.
 
-https://docs.readthedocs.io/en/stable/tutorial/
+
+Read the wiki here:
+
+https://dokuwiki.mratte.ovh/
